@@ -1,7 +1,7 @@
 {
    "type": "postgres",
-   "host": "localhost",
-   "port": 54321,
+   "host": "db",
+   "port": 5432,
    "username": "unicorn_user",
    "password": "my_strong_password",
    "database": "rainbowDatabase",
